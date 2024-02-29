@@ -1,0 +1,15 @@
+{
+  "name": "playwright-typescript-module-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "typescript": "^5.3.3"
+  }
+}
